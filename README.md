@@ -50,6 +50,6 @@ Outil C# pour le subnetting IPv4 et les calculs réseau
 
 - Portfolio : https://florian-bridier.fr
 - Email : florian.proth10@laposte.net
-- LinkedIn : (mets ton lien ici)
+- LinkedIn : (https://www.linkedin.com/in/florian-bridier-aa515a275/)
 
 ---
