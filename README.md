@@ -44,6 +44,10 @@ Jeu C# utilisant des algorithmes de graphes (Dijkstra, parcours eulérien)
 ### Calculateur de plage IP
 Outil C# pour le subnetting IPv4 et les calculs réseau
 
+### Portfolio (Projet personnel • Production)
+Site web personnel présentant mes projets, compétences et démarche cybersécurité
+→ Déploiement OVH, sécurisation avancée (CSP, HSTS, headers HTTP)
+
 ---
 
 ## Contact
